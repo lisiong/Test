@@ -70,9 +70,9 @@ div.gallery {border: 1px solid #ccc;}
 
 div.gallery:hover { border: 1px solid #777;}
 
-div.gallery img {width: 100%; height: fit-content;}
+div.gallery img {width: 100%; height: auto;}
 
-div.desc { padding: 15px; text-align: center;}
+div.desc { padding: 15px; text-align: center; height: fit-content;}
 
 * {  box-sizing: border-box;}
 
