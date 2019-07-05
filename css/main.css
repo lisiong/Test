@@ -5,7 +5,7 @@ body { margin: 20px auto; width:90%; max-width:825px; font-size: calc(18px + (20
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-p, ul {line-height: 1.5; color: #333; }
+p, ul {line-height: 1.6; color: #333; }
 
 h1 { font-size: 1.75em;}
 	
@@ -24,7 +24,7 @@ nav ul li, footer ul li {
 footer { border-top: 1px solid #d5d5d5; }
 
 table {
-  line-height: 1.5em; 	
+  line-height: 1.6; 	
   border-collapse: collapse;
   width: 100%;
 }
