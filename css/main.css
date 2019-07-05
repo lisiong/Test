@@ -93,6 +93,9 @@ div.desc { padding: 15px; text-align: center; height: fit-content;}
 
 @media only screen and (max-width: 500px) {
   .responsive {    width: 100%;  }
+  body, p, ul {    font-size: 22px;  }
+  nav ul, footer ul {    font-size: 18px;   }
+  h1 {    font-size: 26px;  }
 }
 
 .clearfix:after {
