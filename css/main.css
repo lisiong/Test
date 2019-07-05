@@ -1,6 +1,6 @@
 html {font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 
-body { margin: 20px auto; width:80%; max-width:1000px; font-size: calc(18px + (22 - 18)*(100vw - 400px)/(1000 - 400));}
+body { margin: 20px auto; width:80%; max-width:1000px; font-size: calc(18px + (22 - 18)*(100vw - 600px)/(1000 - 600));}
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
